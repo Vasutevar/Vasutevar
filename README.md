@@ -22,5 +22,5 @@
 
 - **Portfolio**: [Vasu Tevar Portfolio](https://vasutevar.com)
 - **LinkedIn**: [linkedin.com/in/vasu-tevar](https://linkedin.com/in/vasu-tevar)
-- **Instagram**: [@_,imvasu._](https://www.instagram.com/_.imvasu._)
+- **Instagram**: [@_.imvasu._](https://www.instagram.com/_.imvasu._)
 
