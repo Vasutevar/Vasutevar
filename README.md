@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👨‍💻 Vasu Tevar | Software Developer
+## Hi there 👋 , I am 👨‍💻 Vasu Tevar | Software Developer
 
 **Programming Skills:**
 
